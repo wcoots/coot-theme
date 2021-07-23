@@ -1,0 +1,11 @@
+{
+  "name": "vs-code-theme",
+  "version": "0.0.1",
+  "description": "my custom vs-code theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WillCooter/vs-code-theme.git"
+  },
+  "author": "William Cooter <will@cooters.co.uk> (https://github.com/WillCooter)",
+  "license": "MIT"
+}
