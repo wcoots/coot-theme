@@ -1,2 +1,3 @@
-# vs-code-theme
-my personal vs code theme
+# CootTheme
+
+This is the README for the VS-Code colour theme extension `CootTheme`.

@@ -1,7 +1,23 @@
 {
-  "name": "vs-code-theme",
+  "name": "coottheme",
+  "displayName": "CootTheme",
+  "description": "CootTheme for VSCode",
   "version": "0.0.1",
-  "description": "my custom vs-code theme",
+  "engines": {
+    "vscode": "^1.58.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "CootTheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/CootTheme-color-theme.json"
+      }
+    ]
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/WillCooter/vs-code-theme.git"
