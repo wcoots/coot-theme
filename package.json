@@ -3,6 +3,9 @@
   "displayName": "CootTheme",
   "description": "CootTheme for VSCode",
   "version": "0.0.1",
+  "publisher": "wcooter",
+  "homepage": "https://github.com/WillCooter/vs-code-theme",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.58.0"
   },
