@@ -4,8 +4,8 @@ VS-Code colour theme extension `CootTheme`. Find it on the marketplace [here](ht
 
 # Screenshots
 
-![screenshot 1](images/screenshot1.png)
+![screenshot 1](static/screenshot1.png)
 
-![screenshot 2](images/screenshot2.png)
+![screenshot 2](static/screenshot2.png)
 
-![screenshot 3](images/screenshot3.png)
+![screenshot 3](static/screenshot3.png)

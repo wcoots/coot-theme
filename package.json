@@ -2,10 +2,10 @@
   "name": "coottheme",
   "displayName": "CootTheme",
   "description": "CootTheme for VSCode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "wcooter",
   "homepage": "https://github.com/WillCooter/vs-code-theme",
-  "icon": "images/icon.png",
+  "icon": "static/icon.png",
   "engines": {
     "vscode": "^1.58.0"
   },
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/WillCooter/vs-code-theme.git"
+    "url": "https://github.com/WillCooter/vs-code-theme"
   },
   "author": "William Cooter <will@cooters.co.uk> (https://github.com/WillCooter)",
   "license": "MIT"
