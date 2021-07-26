@@ -18,7 +18,7 @@
     "dropdown.foreground": "#f8fafd",
     "dropdown.listBackground": "#13242b4f",
     "editor.background": "#131d20",
-    "editor.editor.findMatchBackground": "#42557b",
+    "editor.findMatchBackground": "#42557b",
     "editor.findMatchHighlightBackground": "#ea5c0055",
     "editor.lineHighlightBackground": "#ea5e002f",
     "editor.selectionBackground": "#ea5e002f",
@@ -48,7 +48,6 @@
     "list.hoverBackground": "#13242b",
     "list.inactiveSelectionBackground": "#131a1d",
     "list.inactiveSelectionForeground": "#999999",
-    "notification.background": "#13242b",
     "notifications.background": "#13242b",
     "peekViewEditor.background": "#131a1d",
     "peekViewEditor.matchHighlightBackground": "#13242b",
@@ -120,7 +119,7 @@
       "name": "Comment Markup Link",
       "scope": "comment markup.link",
       "settings": {
-        "foreground": "#5C6370"
+        "foreground": "#5c6370"
       }
     },
     {
@@ -163,7 +162,7 @@
       "name": "flow optional",
       "scope": "keyword.operator.optional.parameter.flowtype,keyword.operator.maybe.flowtype",
       "settings": {
-        "foreground": "#56B6C2"
+        "foreground": "#56b6c2"
       }
     },
     {
@@ -359,21 +358,21 @@
       "name": "keyword.operator.sizeof.c",
       "scope": "keyword.operator.sizeof.c",
       "settings": {
-        "foreground": "#C178DD"
+        "foreground": "#c178dd"
       }
     },
     {
       "name": "Punctuation Definition Comment",
       "scope": "punctuation.definition.comment",
       "settings": {
-        "foreground": "#5C6370"
+        "foreground": "#5c6370"
       }
     },
     {
       "name": "Delimiters",
       "scope": "none",
       "settings": {
-        "foreground": "#A6B2C0"
+        "foreground": "#a6b2c0"
       }
     },
     {
@@ -548,7 +547,7 @@
       "name": "Text",
       "scope": "variable.parameter.function",
       "settings": {
-        "foreground": "#A6B2C0"
+        "foreground": "#a6b2c0"
       }
     },
     {
@@ -640,7 +639,7 @@
       "name": "Values",
       "scope": "none",
       "settings": {
-        "foreground": "#D2945D"
+        "foreground": "#d2945d"
       }
     },
     {
@@ -698,42 +697,42 @@
       "name": "[VSCODE-CUSTOM] Markdown headings",
       "scope": "entity.name.section.markdown",
       "settings": {
-        "foreground": "#E06C75"
+        "foreground": "#e06c75"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown heading Punctuation Definition",
       "scope": "punctuation.definition.heading.markdown",
       "settings": {
-        "foreground": "#E06C75"
+        "foreground": "#e06c75"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown heading setext",
       "scope": "markup.heading.setext",
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#abb2bF"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown Punctuation Definition Bold",
       "scope": "punctuation.definition.bold.markdown",
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#d19a66"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown Inline Raw",
       "scope": "markup.inline.raw.markdown",
       "settings": {
-        "foreground": "#98C379"
+        "foreground": "#98c379"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown List Punctuation Definition",
       "scope": "beginning.punctuation.definition.list.markdown",
       "settings": {
-        "foreground": "#E06C75"
+        "foreground": "#e06c75"
       }
     },
     {
@@ -741,14 +740,14 @@
       "scope": "markup.quote.markdown",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#5C6370"
+        "foreground": "#5c6370"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown Punctuation Definition String",
       "scope": "punctuation.definition.string.begin.markdown,punctuation.definition.string.end.markdown,punctuation.definition.metadata.markdown",
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#abb2bF"
       }
     },
     {
@@ -769,7 +768,7 @@
       "name": "[VSCODE-CUSTOM] Markdown Link Title/Description",
       "scope": "string.other.link.title.markdown,string.other.link.description.markdown",
       "settings": {
-        "foreground": "#61AFEF"
+        "foreground": "#61afef"
       }
     },
     {
@@ -790,21 +789,21 @@
       "name": "Regular Expressions",
       "scope": "string.regexp",
       "settings": {
-        "foreground": "#57B6C2"
+        "foreground": "#57b6c2"
       }
     },
     {
       "name": "Escape Characters",
       "scope": "constant.character.escape",
       "settings": {
-        "foreground": "#57B6C2"
+        "foreground": "#57b6c2"
       }
     },
     {
       "name": "Embedded",
       "scope": "punctuation.section.embedded, variable.interpolation",
       "settings": {
-        "foreground": "#BE4F44"
+        "foreground": "#bE4f44"
       }
     },
     {
@@ -818,74 +817,70 @@
       "name": "Illegal",
       "scope": "invalid.illegal",
       "settings": {
-        "background": "#e05252",
-        "foreground": "#FFFFFF"
+        "foreground": "#ffffff"
       }
     },
     {
       "name": "Broken",
       "scope": "invalid.broken",
       "settings": {
-        "background": "#e05252",
-        "foreground": "#FFFFFF"
+        "foreground": "#ffffff"
       }
     },
     {
       "name": "Deprecated",
       "scope": "invalid.deprecated",
       "settings": {
-        "background": "#d27b53",
-        "foreground": "#FFFFFF"
+        "foreground": "#ffffff"
       }
     },
     {
       "name": "Unimplemented",
       "scope": "invalid.unimplemented",
       "settings": {
-        "background": "#747369",
-        "foreground": "#FFFFFF"
+        "foreground": "#ffffff"
       }
     },
     {
       "name": "Source Json Meta Structure Dictionary Json > String Quoted Json",
       "scope": "source.json meta.structure.dictionary.json > string.quoted.json",
       "settings": {
-        "foreground": "#E06C75"
+        "foreground": "#e06c75"
       }
     },
     {
       "name": "Source Json Meta Structure Dictionary Json > String Quoted Json > Punctuation String",
       "scope": "source.json meta.structure.dictionary.json > string.quoted.json > punctuation.string",
       "settings": {
-        "foreground": "#E06C75"
+        "foreground": "#e06c75"
       }
     },
     {
       "name": "Source Json Meta Structure Dictionary Json > Value Json > String Quoted Json,source Json Meta Structure Array Json > Value Json > String Quoted Json,source Json Meta Structure Dictionary Json > Value Json > String Quoted Json > Punctuation,source Json Meta Structure Array Json > Value Json > String Quoted Json > Punctuation",
       "scope": "source.json meta.structure.dictionary.json > value.json > string.quoted.json,source.json meta.structure.array.json > value.json > string.quoted.json,source.json meta.structure.dictionary.json > value.json > string.quoted.json > punctuation,source.json meta.structure.array.json > value.json > string.quoted.json > punctuation",
       "settings": {
-        "foreground": "#98C379"
+        "foreground": "#98c379"
       }
     },
     {
       "name": "Source Json Meta Structure Dictionary Json > Constant Language Json,source Json Meta Structure Array Json > Constant Language Json",
       "scope": "source.json meta.structure.dictionary.json > constant.language.json,source.json meta.structure.array.json > constant.language.json",
       "settings": {
-        "foreground": "#56B6C2"
+        "foreground": "#56b6c2"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] JSON Property Name",
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#E06C75"
+        "foreground": "#e06c75"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] JSON Punctuation for Property Name",
       "scope": "support.type.property-name.json punctuation",
       "settings": {
-        "foreground": "#E06C75"
+        "foreground": "#e06c75"
       }
     },
     {
@@ -934,7 +929,7 @@
       "name": "rgb-value",
       "scope": "rgb-value",
       "settings": {
-        "foreground": "#56B6C2"
+        "foreground": "#56b6c2"
       }
     },
     {
