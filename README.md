@@ -1,6 +1,6 @@
 # CootTheme
 
-This is the README for the VS-Code colour theme extension `CootTheme`.
+VS-Code colour theme extension `CootTheme`. Find it on the marketplace [here](https://marketplace.visualstudio.com/items?itemName=wcooter.coottheme).
 
 # Screenshots
 
