@@ -2,7 +2,7 @@
 
 VS-Code colour theme extension `CootTheme`. Find it on the marketplace [here](https://marketplace.visualstudio.com/items?itemName=wcooter.coottheme).
 
-# Screenshots
+## Screenshots
 
 ![screenshot 1](static/screenshot1.png)
 
